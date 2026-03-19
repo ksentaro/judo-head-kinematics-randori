@@ -26,9 +26,12 @@ Run scripts in order from project root:
   Rscript code/03_figure1.R
 
 ## Data Availability
-Raw data are not publicly available due to ongoing
+Raw data are not publicly available due to ongoing 
 secondary analyses. Data requests can be directed
 to the corresponding author.
 
 ## License
 MIT License
+
+## DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19104388.svg)](https://doi.org/10.5281/zenodo.19104388)
