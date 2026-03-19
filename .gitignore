@@ -1,3 +1,18 @@
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.rds
+
+# Output files
+output/figures/*.png
+output/figures/*.pdf
+output/models/*.rds
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+
 # History files
 .Rhistory
 .Rapp.history
